@@ -1,4 +1,5 @@
-from random import randintfrom time import sleep
+from random import randint
+from time import sleep 
 options =["R","P","S"]
 LOSS_MESSAGE = "You lost!"
 WIN_MESSAGE = "You won!"
